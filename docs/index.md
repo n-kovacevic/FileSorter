@@ -3,6 +3,8 @@
 2. Select destination directory where the application will store sorted files.
 3. Click run "Sort files" button to start sorting.
 
+![application_screenshot](https://raw.githubusercontent.com/nkg5/FileSorter/master/docs/screenshot.png)
+
 The application uses rules defined in a config.xml file to copy files from a source directory to destination directory.
 
 # System requirements
