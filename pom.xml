@@ -5,7 +5,7 @@
   <groupId>com.nkovacevic.system</groupId>
   <artifactId>file-sorter-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
 
   <modules>
     <module>core</module>
@@ -16,7 +16,7 @@
     <connection>scm:git:git@github.com:nkg5/FileSorter.git</connection>
     <url>scm:git:git@github.com:nkg5/FileSorter.git</url>
     <developerConnection>scm:git:git@github.com:nkg5/FileSorter.git</developerConnection>
-    <tag>1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
