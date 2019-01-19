@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 title: File Sorter
+
+show_downloads: true
