@@ -1,0 +1,24 @@
+#rootPane {
+    -fx-background-color: #383838;
+}
+
+.label {
+    -fx-text-fill: #f7f8f9;
+}
+
+.button {
+    -fx-background-color: linear-gradient(to bottom, #129fe5, #1191D1);
+    -fx-effect: dropshadow(one-pass-box, rgba(0, 0, 0, 0.4), 3, 2, 0, 2);
+    -fx-cursor: hand;
+    -fx-text-fill: #242424;
+}
+
+.button:hover {
+    -fx-background-color: #1191D1;
+}
+
+.button:pressed {
+    -fx-background-color: #2A5570;
+    -fx-translate-y: 2;
+    -fx-effect: none;
+}

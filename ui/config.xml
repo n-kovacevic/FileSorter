@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<directories>
+    <directory name="IMAGES">
+        <extensions>
+            <extension>jpg</extension>
+            <extension>jpeg</extension>
+            <extension>png</extension>
+            <extension>bmp</extension>
+        </extensions>
+    </directory>
+    <directory name="MUSIC">
+        <extensions>
+            <extension>mp3</extension>
+        </extensions>
+    </directory>
+    <directory name="DOCUMENTS">
+        <extensions>
+            <extension>pdf</extension>
+            <extension>doc</extension>
+            <extension>docx</extension>
+        </extensions>
+    </directory>
+    <directory name="VIDEOS">
+        <extensions>
+            <extension>mp4</extension>
+            <extension>avi</extension>
+            <extension>mkv</extension>
+        </extensions>
+    </directory>
+</directories>
