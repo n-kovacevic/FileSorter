@@ -1,7 +1,3 @@
-# FileSorter
-
-This application sorts file for certain criteria. Currently, only criteria implemented is file extension.
-
 # Usage
 1. Select source directory which contains files to be sorted.
 2. Select destination directory where the application will store sorted files.
