@@ -1,4 +1,4 @@
-## Summary:
+## Summary
 This application is intended for sorting files based on certain criteria.
 There are plans to add more criteria in the future but currently only file extension is implemented.
 
